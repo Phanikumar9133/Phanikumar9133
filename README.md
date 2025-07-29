@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Phani Kumar Potharlanka
+#  Hi, I'm Phani Kumar Potharlanka
 
 ### 🚀 Full Stack Developer | 💻 MERN Stack Enthusiast | 🎨 UI/UX Designer
 
@@ -17,6 +17,7 @@ Welcome to my GitHub! I'm a passionate and creative full stack developer with a 
 **Backend:**
 - Node.js
 - Express.js
+- Java
 - RESTful API Development
 
 **Database:**
